@@ -6,9 +6,6 @@ A beautifull demonstration of dark and light theme in Flutter. By taping on butt
 ## Architechture
 ✔️ Clean Architechture <br />
 
-## State Management
-✔️ PRovider <br />
-
 ## GIF
 
 <p align="center">
