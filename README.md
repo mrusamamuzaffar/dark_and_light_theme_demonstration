@@ -1,6 +1,14 @@
 # dark and ight theme demonstration - Flutter
 A beautifull demonstration of dark and light theme in Flutter. By taping on button you can switch between dark and light theme.
 
+✔️ Sound NullSafety
+
+## Architechture
+✔️ Clean Architechture <br />
+
+## State Management
+✔️ PRovider <br />
+
 ## GIF
 
 <p align="center">
